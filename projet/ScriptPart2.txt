@@ -1,0 +1,182 @@
+1//createCollectionand data base
+use GESTIONHOTEL
+db.createCollection("HOTEL")
+db.createCollection("CLIENT")
+
+mongoimport --db GESTIONHOTEL --collection HOTEL --file "C:\Users\client\Desktop\BDA\Project\data\Hotel.json"
+mongoimport --db GESTIONHOTEL --collection CLIENT --file "C:\Users\client\Desktop\BDA\Project\data\Client.json"
+
+a / 
+    db.HOTEL.find({"ETOILES":3}).pretty()
+b/
+
+db.HOTEL.aggregate([
+  {
+    $project: {_id: 0,
+      hotel: "$NOMHOTEL",
+      nombreResv: { $size: "$RESERVATION" }
+    }
+  },
+  {
+    $sort: {
+      nombreResv: -1
+    }
+  },
+  {
+    $out: "HotelNbResv"
+  }
+])
+
+db.HotelNbResv.find()
+
+
+c/
+db.HOTEL.aggregate([
+  {
+     $match : {
+       "CHAMBRES" : {
+            $not : {
+                $elemMatch : {
+                   prix : { $gte :6000 }
+           }
+         }
+       }
+     }
+  },
+  {
+    $out: "HotelsPasCher"
+  }
+])
+
+db.HotelsPasCher.find()
+
+
+d/
+db.HOTEL.aggregate([
+  { $unwind:
+      { path: "$EVALUATIONS",
+      }
+  },
+  { $group: 
+      { _id: "$NOMHOTEL",
+         moy: { $avg: "$EVALUATIONS.NOTE"}
+      }
+  },
+  { $match: { moy: {$gte: 5} }
+  },
+  { $project :  
+        { _id: 0,
+          NOMHOTEL: "$_id"
+        }
+  }
+  ])
+
+e/
+db.HOTEL.aggregate([
+  {
+    $unwind:
+      {
+        path: "$RESERVATION",
+      }
+  },
+  {
+    $lookup:
+      {
+        from: "CLIENT",
+        localField: "RESERVATION.NUMCLIENT",
+        foreignField: "NUMCLIENT",
+        as: "CLIENTS",
+      }
+  },
+  {
+    $match:
+      {
+        "CLIENTS.EMAIL": "OUSSEDIK.Hakim@gmail.com"
+      },
+  },
+  {
+    $project:
+      {
+        _id: 0,
+        NOMHOTEL: 1,
+        "RESERVATION.NUMCHAMBRE": 1,
+        "RESERVATION.DATEDARRIVE": 1,
+      }
+  }
+])
+
+f/
+db.HOTEL.aggregate([
+  {
+    $unwind:
+      {
+        path: "$EVALUATIONS",
+      }
+  },
+  {
+    $lookup:
+      {
+        from: "CLIENT",
+        localField: "EVALUATIONS.NUMCLIENT",
+        foreignField: "NUMCLIENT",
+        as: "CLIENTS",
+      }
+  },
+  {
+    $match:
+      {
+        "CLIENTS.EMAIL":
+        "OUSSEDIK.Hakim@gmail.com",
+      }
+  },
+  {
+    $project:
+      {
+        _id: 0,
+        NOMHOTEL: 1,
+        "EVALUATIONS.DATE": 1,
+        "EVALUATIONS.NOTE": 1,
+      },
+  }
+])
+
+
+g/
+db.HOTEL.updateMany(
+     { ETOILES : { $eq : 5 } },
+     { $inc: { "CHAMBRES.$[].PRIXNUIT":2000 } }
+)
+
+f/
+var mapFunction = function() {
+  emit(this.NOMHOTEL, this.RESERVATION.length);
+};
+
+var reduceFunction = function(key, values) {
+  var nombreReservations = 0;
+  values.forEach(function(value) {
+    nombreReservations += value;
+  });
+  return nombreReservations;
+};
+
+var finalizeFunction = function(key, reducedValue) {
+  return { nombreResv: reducedValue };
+};
+
+db.HOTEL.mapReduce(
+  mapFunction,
+  reduceFunction,
+  {
+    out: "HOTELNBRESVMR",
+    finalize: finalizeFunction
+  }
+);
+
+db.HOTELNBRESVMR.find().sort({ nombreResv: -1 });
+
+
+
+
+
+

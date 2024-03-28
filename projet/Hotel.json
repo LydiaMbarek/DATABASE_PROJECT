@@ -1,0 +1,1342 @@
+
+    {
+        "NUMHOTEL" : 1,
+        "NOMHOTEL" : "Renaissance",
+        "VILLE" :   "Tlemcen",
+        "ETOILES" : 5,
+        "SITEWEB" : "",
+        "CHAMBRES" :[
+            {
+                "NUMCHAMBRE" : 11,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7100
+            },
+            {
+                "NUMCHAMBRE" : 12,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 8800
+            },
+            {
+                "NUMCHAMBRE" : 13,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 6200
+            },
+            {
+                "NUMCHAMBRE" : 20,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 9000
+            },
+            {
+                "NUMCHAMBRE" : 21,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7700
+            },
+            {
+                "NUMCHAMBRE" : 22,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 6800
+            },
+            {
+                "NUMCHAMBRE" : 23,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 8900
+            },
+            {
+                "NUMCHAMBRE" : 11,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7100
+            }       
+        ],
+        "RESERVATION" : [
+            {
+                "NUMCLIENT" : 40,
+                "NUMCHAMBRE" : 23,
+                "DATEDEPART" : "09-05-2022",
+                "DATEDARRIVE" :"13-04-2022"
+            }    
+        ],
+        "EVALUATIONS" :[ 
+            {
+                "NUMCLIENT" : 23 ,
+                "DATE" : "21-04-2022" ,
+                "NOTE" : 7 
+            } ,
+            {
+                "NUMCLIENT" : 3 ,
+                "DATE" : "20-04-2022" ,
+                "NOTE" : 8
+            } ,    
+            {
+                "NUMCLIENT" : 11 ,
+                "DATE" : "01-05-2022" ,
+                "NOTE" : 3
+            }  ,
+            {
+                "NUMCLIENT" : 1 ,
+                "DATE" : "04-04-2022" ,
+                "NOTE" : 9
+            } 
+        ]
+    }
+    {
+        "NUMHOTEL" : 2,
+        "NOMHOTEL" : "Seybouse",
+        "VILLE" :   "Annaba",
+        "ETOILES" : 3,
+        "SITEWEB" : "",
+        "CHAMBRES" :[
+            {
+                "NUMCHAMBRE" : 1,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 4500
+            },
+            {
+                "NUMCHAMBRE" : 2,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 4800
+            },
+            {
+                "NUMCHAMBRE" : 3,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 7100
+            },
+            {
+                "NUMCHAMBRE" : 4,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 5400
+            },
+            {
+                "NUMCHAMBRE" : 5,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 8600
+            },
+            {
+                "NUMCHAMBRE" : 6,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 5800
+            },
+            {
+                "NUMCHAMBRE" : 7,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 5800
+            },
+            {
+                "NUMCHAMBRE" : 8,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 8600
+            },    
+            {
+                "NUMCHAMBRE" : 9,
+                "ETAGE" : 3,
+                "TYPECHAMBRE": "suite", 
+                "PRIXNUIT": 16000
+            },   
+            {
+                "NUMCHAMBRE" : 10,
+                "ETAGE" : 3,
+                "TYPECHAMBRE": "suite", 
+                "PRIXNUIT": 16500
+            }
+        ],
+        "RESERVATION" : [
+            {
+                "NUMCLIENT" : 40,
+                "NUMCHAMBRE" : 8,
+                "DATEDEPART" : "01-05-2022",
+                "DATEDARRIVE" :"05-05-2022"
+            } 
+        ],
+        "EVALUATIONS" :[ 
+            {
+                "NUMCLIENT" : 2 ,
+                "DATE" : "01-04-2022" ,
+                "NOTE" : 4
+            } ,
+            {
+                "NUMCLIENT" : 40,
+                "DATE" : "20-04-2022" ,
+                "NOTE" : 7
+            } ,    
+            {
+                "NUMCLIENT" : 11 ,
+                "DATE" : "14-05-2022" ,
+                "NOTE" : 5
+            }  ,
+            {
+                "NUMCLIENT" : 12 ,
+                "DATE" : "09-06-2022" ,
+                "NOTE" : 6
+            }  ,
+            {
+                "NUMCLIENT" : 13 ,
+                "DATE" : "02-05-2022" ,
+                "NOTE" : 3
+            }  ,
+            {
+                "NUMCLIENT" : 5 ,
+                "DATE" : "17-05-2022" ,
+                "NOTE" : 3
+            }         
+        ]
+    }
+    {
+        "NUMHOTEL" : 3,
+        "NOMHOTEL" : "Hôtel Novotel",
+        "VILLE" :   "Constantine",
+        "ETOILES" : 4,
+        "SITEWEB" : "",
+        "CHAMBRES" :[
+            {
+                "NUMCHAMBRE" : 101,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 3200
+            },
+            {
+                "NUMCHAMBRE" : 102,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 3200
+            },
+            {
+                "NUMCHAMBRE" : 103,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 3300
+            },
+            {
+                "NUMCHAMBRE" : 201,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 3200
+            },
+            {
+                "NUMCHAMBRE" : 202,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 3200
+            },
+            {
+                "NUMCHAMBRE" : 203,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 3300
+            },
+            {
+                "NUMCHAMBRE" : 301,
+                "ETAGE" : 3,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 3400
+            },
+            {
+                "NUMCHAMBRE" : 302,
+                "ETAGE" : 3,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 3400
+            },    
+            {
+                "NUMCHAMBRE" : 303,
+                "ETAGE" : 3,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 3400
+            },   
+            {
+                "NUMCHAMBRE" : 401,
+                "ETAGE" : 4,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 4200
+            }, 
+            {
+                "NUMCHAMBRE" : 402,
+                "ETAGE" : 4,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 4200
+            } 
+        ],
+        "RESERVATION" : [],
+        "EVALUATIONS" :[]
+    }
+    {
+        "NUMHOTEL" : 4,
+        "NOMHOTEL" : "Saint George d'Alger",
+        "VILLE" :   "Alger",
+        "ETOILES" : 5,
+        "SITEWEB" : "",
+        "CHAMBRES" :[
+            {
+                "NUMCHAMBRE" : 1,
+                "ETAGE" : 0,
+                "TYPECHAMBRE": "autre", 
+                "PRIXNUIT": 13000
+            },
+            {
+                "NUMCHAMBRE" : 11,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 8400
+            },
+            {
+                "NUMCHAMBRE" : 12,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 8400
+            },
+            {
+                "NUMCHAMBRE" : 13,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 8600
+            },
+            {
+                "NUMCHAMBRE" : 14,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 9000
+            },
+            {
+                "NUMCHAMBRE" : 21,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 12000
+            },
+            {
+                "NUMCHAMBRE" : 22,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 13000
+            },
+            {
+                "NUMCHAMBRE" : 31,
+                "ETAGE" : 3,
+                "TYPECHAMBRE": "triple", 
+                "PRIXNUIT": 14500
+            },    
+            {
+                "NUMCHAMBRE" : 32,
+                "ETAGE" : 3,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 9000
+            }
+        ],
+        "RESERVATION" : [ 
+            {
+                "NUMCLIENT" : 14,
+                "NUMCHAMBRE" : 21,
+                "DATEDEPART" : "12-05-2022",
+                "DATEDARRIVE" :"13-05-2022"
+            }
+        ],
+        "EVALUATIONS" :[  
+            {
+                "NUMCLIENT" : 14,
+                "DATE" : "13-5-2022" ,
+                "NOTE" : 7
+            } 
+               
+        ]
+    }
+    {
+        "NUMHOTEL" : 5,
+        "NOMHOTEL" : "Ibis Alger Aéroport",
+        "VILLE" :   "Alger",
+        "ETOILES" : 2,
+        "SITEWEB" : "",
+        "CHAMBRES" :[
+            {
+                "NUMCHAMBRE" : 1,
+                "ETAGE" : 0,
+                "TYPECHAMBRE": "triple", 
+                "PRIXNUIT": 7000
+            },
+            {
+                "NUMCHAMBRE" : 2,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 4000
+            },
+            {
+                "NUMCHAMBRE" : 3,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 5500
+            }
+        ],
+        "RESERVATION" : [ 
+            {
+                "NUMCLIENT" : 1,
+                "NUMCHAMBRE" : 1,
+                "DATEDEPART" : "11-05-2022",
+                "DATEDARRIVE" :"15-05-2022"
+            },
+            {
+                "NUMCLIENT" : 2,
+                "NUMCHAMBRE" : 2,
+                "DATEDEPART" : "11-04-2022",
+                "DATEDARRIVE" :"18-04-2022"
+            }, 
+            {
+                "NUMCLIENT" : 6,
+                "NUMCHAMBRE" : 2,
+                "DATEDEPART" : "05-04-2022",
+                "DATEDARRIVE" :"06-04-2022"
+            },  
+            {
+                "NUMCLIENT" : 112,
+                "NUMCHAMBRE" : 1,
+                "DATEDEPART" : "07-06-2022",
+                "DATEDARRIVE" :"10-06-2022"
+            }, 
+            {
+                "NUMCLIENT" : 35,
+                "NUMCHAMBRE" : 2,
+                "DATEDEPART" : "17-05-2022",
+                "DATEDARRIVE" :"23-05-2022"
+            }
+        ],
+        "EVALUATIONS" :[  
+            {
+                "NUMCLIENT" : 1 ,
+                "DATE" : "01-05-2022" ,
+                "NOTE" : 7
+            } ,
+            {
+                "NUMCLIENT" : 2,
+                "DATE" : "20-06-2022" ,
+                "NOTE" : 8
+            } ,    
+            {
+                "NUMCLIENT" : 5 ,
+                "DATE" : "04-04-2022" ,
+                "NOTE" : 9
+            }  ,
+            {
+                "NUMCLIENT" : 8 ,
+                "DATE" : "28-05-2022" ,
+                "NOTE" : 8
+            }  ,
+            {
+                "NUMCLIENT" : 9 ,
+                "DATE" : "17-05-2022" ,
+                "NOTE" : 7
+            }      
+        ]
+    }
+    {
+        "NUMHOTEL" : 6,
+        "NOMHOTEL" : "El Mountazah Annaba",
+        "VILLE" :   "Annaba",
+        "ETOILES" : 3,
+        "SITEWEB" : "",
+        "CHAMBRES" :[
+            {
+                "NUMCHAMBRE" : 1,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 6000
+            },
+            {
+                "NUMCHAMBRE" : 2,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 6000
+            },
+            {
+                "NUMCHAMBRE" : 3,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 6000
+            },
+            {
+                "NUMCHAMBRE" : 4,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 6200
+            },
+            {
+                "NUMCHAMBRE" : 5,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 6200
+            },
+            {
+                "NUMCHAMBRE" : 6,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 6200
+            }
+        ],
+        "RESERVATION" : [ 
+            {
+                "NUMCLIENT" : 13,
+                "NUMCHAMBRE" : 2,
+                "DATEDEPART" : "02-05-2022",
+                "DATEDARRIVE" :"10-05-2022"
+            },
+            {
+                "NUMCLIENT" : 14,
+                "NUMCHAMBRE" : 2,
+                "DATEDEPART" : "28-04-2022",
+                "DATEDARRIVE" :"01-05-2022"
+            }, 
+            {
+                "NUMCLIENT" : 23,
+                "NUMCHAMBRE" : 1,
+                "DATEDEPART" : "04-05-2022",
+                "DATEDARRIVE" :"09-05-2022"
+            },  
+            {
+                "NUMCLIENT" : 35,
+                "NUMCHAMBRE" : 2,
+                "DATEDEPART" : "27-05-2022",
+                "DATEDARRIVE" :"02-06-2022"
+            }
+        ],
+        "EVALUATIONS" :[  
+            {
+                "NUMCLIENT" : 8 ,
+                "DATE" : "29-04-2022" ,
+                "NOTE" : 4
+            } ,
+            {
+                "NUMCLIENT" : 9,
+                "DATE" : "07-04-2022" ,
+                "NOTE" : 3
+            } ,    
+            {
+                "NUMCLIENT" : 11 ,
+                "DATE" : "19-05-2022" ,
+                "NOTE" : 3
+            }  ,
+            {
+                "NUMCLIENT" : 12 ,
+                "DATE" : "05-06-2022" ,
+                "NOTE" : 4
+            }  ,
+            {
+                "NUMCLIENT" : 13 ,
+                "DATE" : "16-06-2022" ,
+                "NOTE" : 2
+            }    
+        ]
+    }
+    {
+        "NUMHOTEL" : 7,
+        "NOMHOTEL" : "Hôtel Albert 1er",
+        "VILLE" :   "Alger",
+        "ETOILES" : 3,
+        "SITEWEB" : "",
+        "CHAMBRES" :[
+            {
+                "NUMCHAMBRE" : 10,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 3100
+            },
+            {
+                "NUMCHAMBRE" : 11,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 3100
+            },
+            {
+                "NUMCHAMBRE" : 12,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 4200
+            },
+            {
+                "NUMCHAMBRE" : 20,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 3100
+            },
+            {
+                "NUMCHAMBRE" : 21,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 3100
+            },
+            {
+                "NUMCHAMBRE" : 22,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 4200
+            },
+            {
+                "NUMCHAMBRE" : 30,
+                "ETAGE" : 3,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 3100
+            },
+            {
+                "NUMCHAMBRE" : 31,
+                "ETAGE" : 3,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 3100
+            },
+            {
+                "NUMCHAMBRE" : 32,
+                "ETAGE" : 3,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 4200
+            },
+            {
+                "NUMCHAMBRE" : 40,
+                "ETAGE" : 4,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 2000
+            },
+            {
+                "NUMCHAMBRE" : 41,
+                "ETAGE" : 4,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 2000
+            },
+            {
+                "NUMCHAMBRE" : 42,
+                "ETAGE" : 4,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 2000
+            },
+            {
+                "NUMCHAMBRE" : 43,
+                "ETAGE" : 4,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 2000
+            },
+            {
+                "NUMCHAMBRE" : 44,
+                "ETAGE" : 4,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 2000
+            }
+        ],
+        "RESERVATION" : [   
+            {
+                "NUMCLIENT" : 6,
+                "NUMCHAMBRE" : 30,
+                "DATEDEPART" : "27-04-2022",
+                "DATEDARRIVE" :"01-05-2022"
+            }
+        ],
+        "EVALUATIONS" :[  
+            {
+                "NUMCLIENT" : 6 ,
+                "DATE" : "01-05-2022" ,
+                "NOTE" : 7
+            }
+                 
+        ]
+    }
+    {
+        "NUMHOTEL" : 8,
+        "NOMHOTEL" : "Chems",
+        "VILLE" :   "Oran",
+        "ETOILES" : 2,
+        "SITEWEB" : "",
+        "CHAMBRES" :[
+            {
+                "NUMCHAMBRE" : 100,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 2900
+            },
+            {
+                "NUMCHAMBRE" : 101,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 2900
+            },
+            {
+                "NUMCHAMBRE" : 102,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 2800
+            },
+            {
+                "NUMCHAMBRE" : 200,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 2800
+            },
+            {
+                "NUMCHAMBRE" : 201,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 2900
+            },
+            {
+                "NUMCHAMBRE" : 202,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 2900
+            },
+            {
+                "NUMCHAMBRE" : 300,
+                "ETAGE" : 3,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 3000
+            },
+            {
+                "NUMCHAMBRE" : 301,
+                "ETAGE" : 3,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 3100
+            },
+            {
+                "NUMCHAMBRE" : 302,
+                "ETAGE" : 3,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 3700
+            },
+            {
+                "NUMCHAMBRE" : 401,
+                "ETAGE" : 4,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 3700
+            },
+            {
+                "NUMCHAMBRE" : 402,
+                "ETAGE" : 4,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 2000
+            }        
+        ],
+        "RESERVATION" : [   
+            {
+                "NUMCLIENT" : 28,
+                "NUMCHAMBRE" : 100,
+                "DATEDEPART" : "30-04-2022",
+                "DATEDARRIVE" :"03-05-2022"
+            },
+            {
+                "NUMCLIENT" : 16,
+                "NUMCHAMBRE" : 301,
+                "DATEDEPART" : "01-05-2022",
+                "DATEDARRIVE" :"03-05-2022"
+            },
+            {
+                "NUMCLIENT" : 37,
+                "NUMCHAMBRE" : 302,
+                "DATEDEPART" : "12-05-2022",
+                "DATEDARRIVE" :"10-05-2022"
+            }
+        ],
+        "EVALUATIONS" :[  
+            {
+                "NUMCLIENT" : 28 ,
+                "DATE" : "01-04-2022" ,
+                "NOTE" : 6
+            } ,
+            {
+                "NUMCLIENT" : 16,
+                "DATE" : "20-04-2022" ,
+                "NOTE" : 7
+            } ,    
+            {
+                "NUMCLIENT" : 27,
+                "DATE" : "14-05-2022" ,
+                "NOTE" : 7
+            }  ,
+            {
+                "NUMCLIENT" : 60 ,
+                "DATE" : "09-06-2022" ,
+                "NOTE" : 8
+            }  ,
+            {
+                "NUMCLIENT" : 49 ,
+                "DATE" : "02-05-2022" ,
+                "NOTE" : 6
+            }  ,
+            {
+                "NUMCLIENT" : 34 ,
+                "DATE" : "17-05-2022" ,
+                "NOTE" : 7
+            }      
+        ]
+    }
+    {
+        "NUMHOTEL" : 9,
+        "NOMHOTEL" : "Colombe",
+        "VILLE" :   "Oran",
+        "ETOILES" : 3,
+        "SITEWEB" : "",
+        "CHAMBRES" :[
+            {
+                "NUMCHAMBRE" : 1,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 3100
+            },
+            {
+                "NUMCHAMBRE" : 2,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 3100
+            },
+            {
+                "NUMCHAMBRE" : 3,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 3200
+            },
+            {
+                "NUMCHAMBRE" : 4,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 3200
+            },
+            {
+                "NUMCHAMBRE" : 5,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 3200
+            },
+            {
+                "NUMCHAMBRE" : 6,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 4800
+            }        
+        ],
+        "RESERVATION" : [   
+            {
+                "NUMCLIENT" : 20,
+                "NUMCHAMBRE" : 2,
+                "DATEDEPART" : "03-05-2022",
+                "DATEDARRIVE" :"20-05-2022"
+            },
+            {
+                "NUMCLIENT" : 15,
+                "NUMCHAMBRE" : 3,
+                "DATEDEPART" : "15-04-2022",
+                "DATEDARRIVE" :"20-04-2022"
+            }
+        ],
+        "EVALUATIONS" :[  
+            {
+                "NUMCLIENT" : 20 ,
+                "DATE" : "20-05-2022" ,
+                "NOTE" : 9
+            } ,
+            {
+                "NUMCLIENT" : 15,
+                "DATE" : "20-04-2022" ,
+                "NOTE" : 8
+            }     
+        ]
+    }
+    {
+        "NUMHOTEL" : 10,
+        "NOMHOTEL" : "Mercure",
+        "VILLE" :   "Alger",
+        "ETOILES" : 4,
+        "SITEWEB" : "",
+        "CHAMBRES" :[
+            {
+                "NUMCHAMBRE" : 100,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 9700
+            },
+            {
+                "NUMCHAMBRE" : 101,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 11000
+            },
+            {
+                "NUMCHAMBRE" : 200,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 9700
+            },
+            {
+                "NUMCHAMBRE" : 201,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 9700
+            },
+            {
+                "NUMCHAMBRE" : 202,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "triple", 
+                "PRIXNUIT": 14100
+            }  
+        ],
+        "RESERVATION" : [   
+            {
+                "NUMCLIENT" : 6,
+                "NUMCHAMBRE" : 100,
+                "DATEDEPART" : "11-06-2022",
+                "DATEDARRIVE" :"14-06-2022"
+            }
+        ],
+        "EVALUATIONS" :[  
+            {
+                "NUMCLIENT" : 6 ,
+                "DATE" : "14-06-2022" ,
+                "NOTE" : 5
+            }      
+        ]
+    }
+    {
+        "NUMHOTEL" : 11,
+        "NOMHOTEL" : "Le Méridien",
+        "VILLE" :   "Oran",
+        "ETOILES" : 5,
+        "SITEWEB" : "",
+        "CHAMBRES" :[
+            {
+                "NUMCHAMBRE" : 1,
+                "ETAGE" : 0,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7800
+            },
+            {
+                "NUMCHAMBRE" : 2,
+                "ETAGE" : 0,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7800
+            },
+            {
+                "NUMCHAMBRE" : 3,
+                "ETAGE" : 0,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7800
+            },
+            {
+                "NUMCHAMBRE" : 4,
+                "ETAGE" : 0,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7800
+            },
+            {
+                "NUMCHAMBRE" : 5,
+                "ETAGE" : 0,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7800
+            },
+            {
+                "NUMCHAMBRE" : 6,
+                "ETAGE" : 0,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7800
+            },
+            {
+                "NUMCHAMBRE" : 7,
+                "ETAGE" : 0,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7800
+            },
+            {
+                "NUMCHAMBRE" : 8,
+                "ETAGE" : 0,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7800
+            },
+            {
+                "NUMCHAMBRE" : 9,
+                "ETAGE" : 0,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7800
+            },
+            {
+                "NUMCHAMBRE" : 10,
+                "ETAGE" : 0,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7800
+            },
+            {
+                "NUMCHAMBRE" : 11,
+                "ETAGE" : 0,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7800
+            },
+            {
+                "NUMCHAMBRE" : 12,
+                "ETAGE" : 0,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 9100
+            },
+            {
+                "NUMCHAMBRE" : 13,
+                "ETAGE" : 0,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 9100
+            },
+            {
+                "NUMCHAMBRE" : 14,
+                "ETAGE" : 0,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 9100
+            },
+            {
+                "NUMCHAMBRE" : 15,
+                "ETAGE" : 0,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 9100
+            },
+            {
+                "NUMCHAMBRE" : 16,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7700
+            },
+            {
+                "NUMCHAMBRE" : 17,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7700
+            },
+            {
+                "NUMCHAMBRE" : 18,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7700
+            },
+            {
+                "NUMCHAMBRE" : 19,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7700
+            },
+            {
+                "NUMCHAMBRE" : 20,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7700
+            },
+            {
+                "NUMCHAMBRE" : 21,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7500
+            },
+            {
+                "NUMCHAMBRE" : 22,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7500
+            },
+            {
+                "NUMCHAMBRE" : 23,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7500
+            },
+            {
+                "NUMCHAMBRE" : 24,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 8000
+            },
+            {
+                "NUMCHAMBRE" : 25,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 8000
+            },
+            {
+                "NUMCHAMBRE" : 26,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 8000
+            },
+            {
+                "NUMCHAMBRE" : 27,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "triple", 
+                "PRIXNUIT": 10900
+            },
+            {
+                "NUMCHAMBRE" : 28,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "triple", 
+                "PRIXNUIT": 10900
+            },
+            {
+                "NUMCHAMBRE" : 29,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7200
+            },
+            {
+                "NUMCHAMBRE" : 30,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7200
+            },
+            {
+                "NUMCHAMBRE" : 31,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7200
+            },
+            {
+                "NUMCHAMBRE" : 32,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 7200
+            }
+    
+        ],
+        "RESERVATION" : [   
+            {
+                "NUMCLIENT" : 12,
+                "NUMCHAMBRE" : 8,
+                "DATEDEPART" : "09-05-2022",
+                "DATEDARRIVE" :"10-05-2022"
+            },
+            {
+                "NUMCLIENT" : 3,
+                "NUMCHAMBRE" : 9,
+                "DATEDEPART" : "06-04-2022",
+                "DATEDARRIVE" :"08-04-2022"
+            },
+            {
+                "NUMCLIENT" : 7,
+                "NUMCHAMBRE" : 7,
+                "DATEDEPART" : "07-05-2022",
+                "DATEDARRIVE" :"12-05-2022"
+            },
+            {
+                "NUMCLIENT" : 47,
+                "NUMCHAMBRE" : 20,
+                "DATEDEPART" : "04-04-2022",
+                "DATEDARRIVE" :"08-04-2022"
+            },
+            {
+                "NUMCLIENT" : 44,
+                "NUMCHAMBRE" : 5,
+                "DATEDEPART" : "07-04-2022",
+                "DATEDARRIVE" :"07-05-2022"
+            },
+            {
+                "NUMCLIENT" : 40,
+                "NUMCHAMBRE" : 9,
+                "DATEDEPART" : "11-04-2022",
+                "DATEDARRIVE" :"14-04-2022"
+            },
+            {
+                "NUMCLIENT" : 22,
+                "NUMCHAMBRE" : 25,
+                "DATEDEPART" : "04-04-2022",
+                "DATEDARRIVE" :"05-04-2022"
+            },
+            {
+                "NUMCLIENT" : 26,
+                "NUMCHAMBRE" : 25,
+                "DATEDEPART" : "22-04-2022",
+                "DATEDARRIVE" :"26-04-2022"
+            },
+            {
+                "NUMCLIENT" : 29,
+                "NUMCHAMBRE" : 1,
+                "DATEDEPART" : "04-04-2022",
+                "DATEDARRIVE" :"08-04-2022"
+            }
+        ],
+        "EVALUATIONS" :[  
+            {
+                "NUMCLIENT" : 12 ,
+                "DATE" : "01-04-2022" ,
+                "NOTE" : 9
+            } ,
+            {
+                "NUMCLIENT" : 3,
+                "DATE" : "20-04-2022" ,
+                "NOTE" : 8
+            } ,    
+            {
+                "NUMCLIENT" : 11 ,
+                "DATE" : "14-06-2022" ,
+                "NOTE" : 7
+            }  ,
+            {
+                "NUMCLIENT" : 12 ,
+                "DATE" : "19-06-2022" ,
+                "NOTE" : 6
+            }  ,
+            {
+                "NUMCLIENT" : 13 ,
+                "DATE" : "02-04-2022" ,
+                "NOTE" : 8
+            }  ,
+            {
+                "NUMCLIENT" : 5 ,
+                "DATE" : "07-04-2022" ,
+                "NOTE" : 9
+            }      
+        ]
+    }
+    {
+        "NUMHOTEL" : 12,
+        "NOMHOTEL" : "Hôtel Sofitel",
+        "VILLE" :   "Alger",
+        "ETOILES" : 5,
+        "SITEWEB" : "",
+        "CHAMBRES" :[
+            {
+                "NUMCHAMBRE" : 33,
+                "ETAGE" : 3,
+                "TYPECHAMBRE": "simple", 
+                "PRIXNUIT": 5000
+            },
+            {
+                "NUMCHAMBRE" : 12,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 13000
+            },
+            {
+                "NUMCHAMBRE" : 102,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 13000
+            },
+            {
+                "NUMCHAMBRE" : 103,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 13000
+            },
+            {
+                "NUMCHAMBRE" : 104,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 13000
+            },
+            {
+                "NUMCHAMBRE" : 105,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 13000
+            },
+            {
+                "NUMCHAMBRE" : 106,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 14500
+            },
+            {
+                "NUMCHAMBRE" : 107,
+                "ETAGE" : 1,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 14500
+            },
+            {
+                "NUMCHAMBRE" : 201,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 14500
+            },
+            {
+                "NUMCHAMBRE" : 202,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 14500
+            },
+            {
+                "NUMCHAMBRE" : 203,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 11800
+            },
+            {
+                "NUMCHAMBRE" : 204,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 11800
+            },
+            {
+                "NUMCHAMBRE" : 205,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 13000
+            },
+            {
+                "NUMCHAMBRE" : 206,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 145000
+            },
+            {
+                "NUMCHAMBRE" : 207,
+                "ETAGE" : 2,
+                "TYPECHAMBRE": "double", 
+                "PRIXNUIT": 145000
+            },
+            {
+                "NUMCHAMBRE" : 301,
+                "ETAGE" : 3,
+                "TYPECHAMBRE": "suite", 
+                "PRIXNUIT": 19500
+            },
+            {
+                "NUMCHAMBRE" : 302,
+                "ETAGE" : 3,
+                "TYPECHAMBRE": "suite", 
+                "PRIXNUIT": 19500
+            },
+            {
+                "NUMCHAMBRE" : 303,
+                "ETAGE" : 3,
+                "TYPECHAMBRE": "suite", 
+                "PRIXNUIT": 19500
+            }
+        ],
+        "RESERVATION" : [   
+            {
+                "NUMCLIENT" : 29,
+                "NUMCHAMBRE" : 205,
+                "DATEDEPART" : "04-05-2022",
+                "DATEDARRIVE" :"09-05-2022"
+            },
+            {
+                "NUMCLIENT" : 35,
+                "NUMCHAMBRE" : 101,
+                "DATEDEPART" : "04-04-2022",
+                "DATEDARRIVE" :"06-05-2022"
+            },
+            {
+                "NUMCLIENT" : 37,
+                "NUMCHAMBRE" : 202,
+                "DATEDEPART" : "11-05-2022",
+                "DATEDARRIVE" :"18-05-2022"
+            }
+        ],
+        "EVALUATIONS" :[    
+            {
+                "NUMCLIENT" : 29 ,
+                "DATE" : "09-05-2022" ,
+                "NOTE" : 8
+            } ,
+            {
+                "NUMCLIENT" : 35,
+                "DATE" : "06-05-2022" ,
+                "NOTE" : 7
+            } ,    
+            {
+                "NUMCLIENT" : 37 ,
+                "DATE" : "18-05-2022" ,
+                "NOTE" : 9
+            }   
+        ]
+    }

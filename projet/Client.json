@@ -1,0 +1,415 @@
+
+    {
+        "NUMCLIENT" : 1 ,
+        "NOMCLIENT" : "BOUROUBI",
+        "PRENOMCLIENT" : "Taous",
+        "EMAIL" : "BOUROUBI.Taous@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 2 ,
+        "NOMCLIENT" : "BOUZIDI",
+        "PRENOMCLIENT" : "AMEL",
+        "EMAIL" : "BOUZIDI.AMEL@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 3 ,
+        "NOMCLIENT" : "LACHEMI",
+        "PRENOMCLIENT" :   "Bouzid",
+        "EMAIL" : "LACHEMI.Bouzid@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 4 ,
+        "NOMCLIENT" : "BOUCHEMLA",
+        "PRENOMCLIENT" :   "Elias",
+        "EMAIL" : "BOUCHEMLA.Elias@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 5 ,
+        "NOMCLIENT" : "HADJ",
+        "PRENOMCLIENT" :   "Zouhir",
+        "EMAIL" : "HADJ.Zouhir@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 6 ,
+        "NOMCLIENT" : "OUSSEDIK",
+        "PRENOMCLIENT" :   "Hakim",
+        "EMAIL" : "OUSSEDIK.Hakim@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 7 ,
+        "NOMCLIENT" : "AAKOUB",
+        "PRENOMCLIENT" :   "Fatiha",
+        "EMAIL" : "AAKOUB.Fatiha@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 8 ,
+        "NOMCLIENT" : "ABAD",
+        "PRENOMCLIENT" :   "Abdelhamid",
+        "EMAIL" : "ABAD.Abdelhamid@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 9 ,
+        "NOMCLIENT" : "ABADA",
+        "PRENOMCLIENT" :   "Mohamed",
+        "EMAIL" : "ABADA.Mohamed@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 10 ,
+        "NOMCLIENT" : "ABAYAHIA",
+        "PRENOMCLIENT" :   "Abdelkader",
+        "EMAIL" : "ABAYAHIA.Abdelkader@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 11 ,
+        "NOMCLIENT" : "ABBACI",
+        "PRENOMCLIENT" :   "Abdelmadjid",
+        "EMAIL" : "ABBACI.Abdelmadjid@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 12 ,
+        "NOMCLIENT" : "ABBAS",
+        "PRENOMCLIENT" :   "Samira",
+        "EMAIL" : "ABBAS.Samira@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 13 ,
+        "NOMCLIENT" : "ABBOU",
+        "PRENOMCLIENT" :   "Mohamed",
+        "EMAIL" : "ABBOU.Mohamed@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 14 ,
+        "NOMCLIENT" : "ABDELAZIZ",
+        "PRENOMCLIENT" :   "Ahmed",
+        "EMAIL" : "ABDELAZIZ.Ahemd@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 15 ,
+        "NOMCLIENT" : "ABDELMOUMEN",
+        "PRENOMCLIENT" :   "Nassima",
+        "EMAIL" : "ABDELMOUMEN.Nassima@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 16 ,
+        "NOMCLIENT" : "ABDELOUAHAB",
+        "PRENOMCLIENT" :   "OUAHIBA",
+        "EMAIL" : "ABDELOUAHAB.OUAHIBA@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 17 ,
+        "NOMCLIENT" : "ABDEMEZIANE",
+        "PRENOMCLIENT" :   "Madjid",
+        "EMAIL" : "ABDEMEZIANE.@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 18 ,
+        "NOMCLIENT" : "ABERKANE",
+        "PRENOMCLIENT" :   "Aicha",
+        "EMAIL" : "ABERKANE.Aicha@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 19 ,
+        "NOMCLIENT" : "AZOUG",
+        "PRENOMCLIENT" :   "Dalila",
+        "EMAIL" : "AZOUG.Dalila@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 20 ,
+        "NOMCLIENT" : "BENOUADAH",
+        "PRENOMCLIENT" :   "Mohammed",
+        "EMAIL" : "BENOUADAH.Mohammed@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 21 ,
+        "NOMCLIENT" : "ACHAIBOU",
+        "PRENOMCLIENT" :   "Rachid",
+        "EMAIL" : "ACHAIBOU.Rachid@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 22 ,
+        "NOMCLIENT" : "ADDAD",
+        "PRENOMCLIENT" :   "Fadila",
+        "EMAIL" : "ADDAD.Fadila@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 23 ,
+        "NOMCLIENT" : "AGGOUN",
+        "PRENOMCLIENT" :   "Khadidja",
+        "EMAIL" : "AGGOUN.Khadidja@gmail.com"
+    } 
+    {
+        "NUMCLIENT" : 24 ,
+        "NOMCLIENT" : "AISSAT",
+        "PRENOMCLIENT" :   "Salima",
+        "EMAIL" : "AISSAT.Salima@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 25 ,
+        "NOMCLIENT" : "AMARA",
+        "PRENOMCLIENT" :   "Dahbia",
+        "EMAIL" : "AMARA.Dahbia@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 26 ,
+        "NOMCLIENT" : "AROUEL",
+        "PRENOMCLIENT" :   "Leila",
+        "EMAIL" : "AROUEL.Leila@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 27 ,
+        "NOMCLIENT" : "BAALI",
+        "PRENOMCLIENT" :  "Souad",
+        "EMAIL" : ""
+    }
+    {
+        "NUMCLIENT" : 28 ,
+        "NOMCLIENT" : "BABACI",
+        "PRENOMCLIENT" :   "Mourad",
+        "EMAIL" : "BABACI.Mourad@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 29 ,
+        "NOMCLIENT" : "BACHA",
+        "PRENOMCLIENT" :   "Nadia",
+        "EMAIL" : "BACHA.Nadia@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 30 ,
+        "NOMCLIENT" : "BAHBOUH",
+        "PRENOMCLIENT" :   "Naima",
+        "EMAIL" : "BAHBOUH.Naima@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 31 ,
+        "NOMCLIENT" : "BADI",
+        "PRENOMCLIENT" :   "Hatem",
+        "EMAIL" : "BADI.Hatem@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 32 ,
+        "NOMCLIENT" : "BAKIR",
+        "PRENOMCLIENT" :   "ADEL",
+        "EMAIL" : "BAKIR.Adel@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 33 ,
+        "NOMCLIENT" : "BALI",
+        "PRENOMCLIENT" :   "Malika",
+        "EMAIL" : "BALI.Malika@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 34 ,
+        "NOMCLIENT" : "BASSI",
+        "PRENOMCLIENT" :   "Fatima",
+        "EMAIL" : "BASSI.Fatima@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 35 ,
+        "NOMCLIENT" : "BEHADI",
+        "PRENOMCLIENT" :   "Youcef",
+        "EMAIL" : "BEHADI.Youcel@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 36 ,
+        "NOMCLIENT" : "BEKKAT",
+        "PRENOMCLIENT" :   "Hadia",
+        "EMAIL" : "BEKKAT.Hadia@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 37 ,
+        "NOMCLIENT" : "BELABES",
+        "PRENOMCLIENT" :   "Abdelkader",
+        "EMAIL" : "BELABES.Abdelkader@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 38 ,
+        "NOMCLIENT" : "BELAKERMI",
+        "PRENOMCLIENT" :   "Mohammed",
+        "EMAIL" : "BELAKERMI.Mohammed@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 39 ,
+        "NOMCLIENT" : "BELGHALI",
+        "PRENOMCLIENT" :   "Mohammed",
+        "EMAIL" : "BELGHALI.Mohammed@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 40 ,
+        "NOMCLIENT" : "BELHAMIDI",
+        "PRENOMCLIENT" :   "Mustapha",
+        "EMAIL" : "BELHAMIDI.Mustapha@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 41 ,
+        "NOMCLIENT" : "BELKACEMI",
+        "PRENOMCLIENT" :   "Hocine",
+        "EMAIL" : "BELKACEMI.Hocine@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 42 ,
+        "NOMCLIENT" : "BELKOUT",
+        "PRENOMCLIENT" :   "Tayeb",
+        "EMAIL" : "BELKOUT.Tayeb@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 43 ,
+        "NOMCLIENT" : "RAHALI",
+        "PRENOMCLIENT" :   "Ahcene",
+        "EMAIL" : "RAHALI.Ahcene@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 44 ,
+        "NOMCLIENT" : "FERAOUN",
+        "PRENOMCLIENT" :   "Houria",
+        "EMAIL" : "FERAOUN.Houria@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 45 ,
+        "NOMCLIENT" : "TERKI",
+        "PRENOMCLIENT" :   "Amina",
+        "EMAIL" : "TERKI.Amina@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 46 ,
+        "NOMCLIENT" : "CHAOUI",
+        "PRENOMCLIENT" :   "Farid",
+        "EMAIL" : "CHAOUI.Farid@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 47 ,
+        "NOMCLIENT" : "BENDALI",
+        "PRENOMCLIENT" :   "Hacine",
+        "EMAIL" : "BENDALI.Hacine@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 48 ,
+        "NOMCLIENT" : "CHAKER",
+        "PRENOMCLIENT" :   "Nadia",
+        "EMAIL" : "CHAKER.Nadia@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 49 ,
+        "NOMCLIENT" : "BELHAMIDI",
+        "PRENOMCLIENT" :   "Mustapha",
+        "EMAIL" : "BELHAMIDI.Mustapha@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 50 ,
+        "NOMCLIENT" : "BELKACEMI",
+        "PRENOMCLIENT" :   "Hocine",
+        "EMAIL" : "BELKACEMI.Hocine@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 51 ,
+        "NOMCLIENT" : "BELKOUT",
+        "PRENOMCLIENT" :   "Tayeb",
+        "EMAIL" : "BELKOUT.Tayeb@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 52 ,
+        "NOMCLIENT" : "RAHALI",
+        "PRENOMCLIENT" :   "Ahcene",
+        "EMAIL" : "RAHALI.Ahcene@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 53 ,
+        "NOMCLIENT" : "FERAOUN",
+        "PRENOMCLIENT" :   "Houria",
+        "EMAIL" : "FERAOUN.Houria@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 54 ,
+        "NOMCLIENT" : "TERKI",
+        "PRENOMCLIENT" :   "Amina",
+        "EMAIL" : "TERKI.Amina@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 55 ,
+        "NOMCLIENT" : "CHAOUI",
+        "PRENOMCLIENT" :   "Farid",
+        "EMAIL" : "CHAOUI.Farid@gmail.com"
+    } 
+    {
+        "NUMCLIENT" : 56 ,
+        "NOMCLIENT" : "BENDALI",
+        "PRENOMCLIENT" :   "Hacine",
+        "EMAIL" : "BENDALI.Hacine@gmail.com"
+    } 
+    {
+        "NUMCLIENT" : 57 ,
+        "NOMCLIENT" : "CHAKER",
+        "PRENOMCLIENT" :   "Nadia",
+        "EMAIL" : "CHAKER.Nadia@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 58 ,
+        "NOMCLIENT" : "BOULARAS",
+        "PRENOMCLIENT" :   "Fatima",
+        "EMAIL" : "BOULARAS.Fatima@gmail.com"
+    }  
+    {
+        "NUMCLIENT" : 59 ,
+        "NOMCLIENT" : "IGOUDJIL",
+        "PRENOMCLIENT" :   "Redouane",
+        "EMAIL" : "IGOUDJIL.Redouane@gmail.com"
+    } 
+    {
+        "NUMCLIENT" : 60 ,
+        "NOMCLIENT" : "GHEZALI",
+        "PRENOMCLIENT" :   "Lakhdar",
+        "EMAIL" : "GHEZALI.Lakhdar@gmail.com"
+    }  
+    {
+        "NUMCLIENT" : 61 ,
+        "NOMCLIENT" : "KOULA",
+        "PRENOMCLIENT" :   "Brahim",
+        "EMAIL" : "KOULA.Brahim@gmail.com"
+    }  
+    {
+        "NUMCLIENT" : 62 ,
+        "NOMCLIENT" : "BELAID",
+        "PRENOMCLIENT" :   "Layachi",
+        "EMAIL" : "BELAID.Layachi@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 63 ,
+        "NOMCLIENT" : "CHALABI",
+        "PRENOMCLIENT" :   "Mourad",
+        "EMAIL" : "CHALABI.Mouard@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 64 ,
+        "NOMCLIENT" : "MOHAMMEDI",
+        "PRENOMCLIENT" :   "Mustapha",
+        "EMAIL" : "MOHAMMEDI.Mustapha@gmail.com"
+    } 
+    {
+        "NUMCLIENT" : 65,
+        "NOMCLIENT" : "FEKAR",
+        "PRENOMCLIENT" :   "Abdelaziz",
+        "EMAIL" : "FEKAR.Abdelaziz@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 66 ,
+        "NOMCLIENT" : "SAIDOUNI",
+        "PRENOMCLIENT" :   "Wafa",
+        "EMAIL" : "SAIDOUNI.Wafa@gmail.com"
+    }  
+    {
+        "NUMCLIENT" : 67 ,
+        "NOMCLIENT" : "Yalaoui",
+        "PRENOMCLIENT" :   "Lamia",
+        "EMAIL" : "Yalaoui.Lamia@gmail.com"
+    }  
+    {
+        "NUMCLIENT" : 68 ,
+        "NOMCLIENT" : "AYATA",
+        "PRENOMCLIENT" :   "Samia",
+        "EMAIL" : "AYATA.Samia@gmail.com"
+    }
+    {
+        "NUMCLIENT" : 69 ,
+        "NOMCLIENT" : "TEBIBEL",
+        "PRENOMCLIENT" :   "Nabila",
+        "EMAIL" : "TEBIBEL.Nabila@gmail.com"
+    } 
